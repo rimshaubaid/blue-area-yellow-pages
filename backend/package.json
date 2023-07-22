@@ -1,0 +1,28 @@
+{
+  "name": "yellow-pages-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.2",
+    "is-empty": "^1.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.7",
+    "multer": "^1.4.3",
+    "nodemon": "^2.0.12",
+    "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0",
+    "react-toastify": "^8.0.3",
+    "reactjs-popup": "^2.0.5",
+    "request": "^2.88.2",
+    "tesseract.js": "^2.1.5",
+    "utils": "^0.3.1",
+    "validator": "^13.6.0"
+  }
+}
